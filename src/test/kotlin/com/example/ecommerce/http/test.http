@@ -1,0 +1,2 @@
+### http file for test end point
+GET http://localhost:8080/test

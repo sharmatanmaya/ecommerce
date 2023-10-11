@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: /ecommerce
+fakestore:
+  url: https://fakestoreapi.com
+  paths:
+    products: /products
+    categories: /products/categorie
+    category: /products/category
